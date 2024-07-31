@@ -5,6 +5,4 @@ Meu nome é: Larissa Vitoria
 
 -estou estudando no Alura
 
-
-!(![Uploading image.png…]()
-)
+!(https://media1.tenor.com/m/lvQ5UhzZlRsAAAAd/will-smith.gif)
